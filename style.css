@@ -186,7 +186,7 @@
   clip-path: circle(50% at 50% 100%); 
     }
     to {
-       -webkit-clip-path: circle(50% at 50% 70%);
-  clip-path: circle(50% at 50% 70%); 
+       -webkit-clip-path: circle(50% at 50% 80%);
+clip-path: circle(50% at 50% 80%);  
     }
   }
